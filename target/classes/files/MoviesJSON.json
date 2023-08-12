@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Avengers: Endgame",
+    "director": {
+      "firstName": "Anthony",
+      "lastName": "Russo"
+    },
+    "dateOfProduction": "26.04.2019",
+    "genre": "Sci-Fi",
+    "listOfActors": [
+      {
+        "firstName": "Robert",
+        "lastName": "Downey Jr."
+      },
+      {
+        "firstName": "Chris",
+        "lastName": "Evans"
+      },
+      {
+        "firstName": "Mark",
+        "lastName": "Ruffalo"
+      },
+      {
+        "firstName": "Chris",
+        "lastName": "Hemsworth"
+      }
+    ]
+  },
+  {
+    "title": "Venom",
+    "director": {
+      "firstName": "Ruben",
+      "lastName": "Fleischer"
+    },
+    "dateOfProduction": "05.10.2018",
+    "genre": "Sci-Fi",
+    "listOfActors": [
+      {
+        "firstName": "Tom",
+        "lastName": "Hardy"
+      },
+      {
+        "firstName": "Michelle",
+        "lastName": "Williams"
+      },
+      {
+        "firstName": "Riz",
+        "lastName": "Ahmed"
+      },
+      {
+        "firstName": "Jenny",
+        "lastName": "Slate"
+      }
+    ]
+  },
+  {
+    "title": "Ant-Man and The Wasp",
+    "director": {
+      "firstName": "Peyton",
+      "lastName": "Reed"
+    },
+    "dateOfProduction": "03.07.2018",
+    "genre": "Sci-Fi",
+    "listOfActors": [
+      {
+        "firstName": "Paul",
+        "lastName": "Rudd"
+      },
+      {
+        "firstName": "Evangeline",
+        "lastName": "Lilly"
+      },
+      {
+        "firstName": "Michael",
+        "lastName": "Douglas"
+      },
+      {
+        "firstName": "Michelle",
+        "lastName": "Pfeiffer"
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "director": {
+      "firstName": "Chris",
+      "lastName": "Columbus"
+    },
+    "dateOfProduction": "16.11.2001",
+    "genre": "Fantasy",
+    "listOfActors": [
+      {
+        "firstName": "Daniel",
+        "lastName": "Radcliffe"
+      },
+      {
+        "firstName": "Rupert",
+        "lastName": "Grint"
+      },
+      {
+        "firstName": "Emma",
+        "lastName": "Watson"
+      },
+      {
+        "firstName": "Robbie",
+        "lastName": "Coltrane"},
+      [
+        {
+          "title": "Spider-Man: No Way Home",
+          "director": {
+            "firstName": "Jon",
+            "lastName": "Watts"
+          },
+          "dateOfProduction": "17.12.2021",
+          "genre": "Action",
+          "listOfActors": [
+            {
+              "firstName": "Tom",
+              "lastName": "Holland"
+            },
+            {
+              "firstName": "Zendaya",
+              "lastName": "Coleman"
+            },
+            {
+              "firstName": "Benedict",
+              "lastName": "Cumberbatch"
+            },
+            {
+              "firstName": "Willem",
+              "lastName": "Dafoe"
+            }
+          ]
+        },
+        {
+          "title": "Inception",
+          "director": {
+            "firstName": "Christopher",
+            "lastName": "Nolan"
+          },
+          "dateOfProduction": "16.07.2010",
+          "genre": "Sci-Fi",
+          "listOfActors": [
+            {
+              "firstName": "Leonardo",
+              "lastName": "DiCaprio"
+            },
+            {
+              "firstName": "Joseph",
+              "lastName": "Gordon-Levitt"
+            },
+            {
+              "firstName": "Ellen",
+              "lastName": "Page"
+            },
+            {
+              "firstName": "Tom",
+              "lastName": "Hardy"
+            }
+          ]
+        }
+      ]
